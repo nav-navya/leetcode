@@ -16,6 +16,7 @@ function chooseyourChoice(num){
 
 const number = chooseyourChoice(9)
 console.log(number.increment(9));
-console.log(number.decrement(9));
 console.log(number.reset(9));
+
+console.log(number.decrement(9));
 
