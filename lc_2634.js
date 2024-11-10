@@ -5,7 +5,7 @@ function greater(a)
 }
 
 function final(ar,fn){
-  return ar.filter(greater)
+  return ar.filter(fn)
 
 
 }
