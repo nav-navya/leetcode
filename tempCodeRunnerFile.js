@@ -1,1 +1,1 @@
-counter()
+  return (nums[n-1])
