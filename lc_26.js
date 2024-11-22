@@ -1,23 +1,3 @@
-// function uniqueNumbers(num){
-//   if(num.length === 0 )
-//     return 0;
-
-//   let i = 0;
-//   for(let j =1; j<num.length; j++){
-//     if(num[i] !== num[j] ){
-//       i++;
-//       num[i] = num[j]
-//     }
-
-//   }
-//   return i+ 1;
-// }
-
-// console.log(uniqueNumbers[1,2,6,5,4,3,4,1,3])
-
-
-
-
 
 function removeDuplicates(nums) {
  
