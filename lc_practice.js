@@ -1,0 +1,3 @@
+function arrayOf(arr){
+  
+}
